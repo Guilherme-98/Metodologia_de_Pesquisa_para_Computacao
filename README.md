@@ -1,2 +1,2 @@
-# Metodologia_de_Pesquisa_para_Computacao
+# Metodologia de Pesquisa para Computação
 Atividade realizada na disciplina de Metodologia de Pesquisa para Computação
